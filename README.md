@@ -5,7 +5,7 @@
 Existing research on embodied AI overlooks a critical aspect of real-world interaction: __objects rarely exist in isolation__.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b4112d5d-8d6b-4f34-81c3-a0a4edd2dd47" alt="tea_knowledge" width="500" height="300">
+  <img src="https://github.com/user-attachments/assets/b4112d5d-8d6b-4f34-81c3-a0a4edd2dd47" alt="tea_knowledge" width="600">
 </div>
 
 For example, when given the task "the guest is here, give me that cup," there are often multiple similar cups present. An AI must identify the specific referent to interact correctly. If it still needs humans to provide exact coordinates, such as (x 139, y 284, z 57) or detailed descriptions, it falls short of natural interaction capabilities. 
@@ -32,7 +32,7 @@ However, people identify specific objects not just by sensing their features but
 This category tests whether LVLMs can identify objects by their unique physical features. The compare question would give the hints of "uniqueness".
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b7e39606-b93b-4586-9743-e7d18125d742" alt="tea_knowledge" width="500" height="300">
+  <img src="https://github.com/user-attachments/assets/b7e39606-b93b-4586-9743-e7d18125d742" alt="tea_knowledge" width="600">
 </div>
 
 ## Accessibility
@@ -64,6 +64,8 @@ This knowledge is inherently stored in the human mind and rarely detailed in kno
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c071a372-8174-44b8-a8b4-aafea4a72ac9" alt="tea_knowledge" width="600">
 </div>
+
+## The authorship and citation information will be released after the anonymous reviewing period.
 
 
 
