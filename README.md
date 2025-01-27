@@ -1,6 +1,6 @@
 # DefQA: A Multimodal Dataset of Identifiability for Embodied Tasks with Large Vision-Language Models
 
-## The authorship and citation information will be released after the anonymous reviewing period.
+## The authorship and citation information will be released after the anonymous reviewing period. The dataset is still in its early stages and will keep updating.
 
 Existing research on embodied AI overlooks a critical aspect of real-world interaction: __objects rarely exist in isolation__.
 
